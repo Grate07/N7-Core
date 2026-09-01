@@ -44,7 +44,7 @@ Welcome system • Giveaways • Button reaction roles • XP/Leveling • Serve
 ## 2. Create the Discord bot & get your keys
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications) → **New Application**.
-2. Name it "Aster MC" (or whatever you like) → go to the **Bot** tab → **Add Bot**.
+2. Name it "N7" (or whatever you like) → go to the **Bot** tab → **Add Bot**.
 3. Under **Privileged Gateway Intents**, enable:
    - ✅ **Server Members Intent** — **required** (welcome messages need this)
    - ✅ **Message Content Intent** — **required** (`!rank`, `!leaderboard`, and the "IP" auto-responder all need to read message text)
