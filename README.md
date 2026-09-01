@@ -89,25 +89,25 @@ Everything you'll want to tweak later lives here, so you never have to touch cod
 
 ```jsonc
 {
-  "serverName": "Aster MC",
-  "themeColor": "#8a2be2",
+  "serverName": "YOUR_SERVER_NAME",
+  "themeColor": "#Whatever you want paste the colour code here",
 
-  "SERVER_IP": "play.astermc.fun",
-  "BEDROCK_PORT": "25599",
-  "WEBSITE": "https://www.astermc.net/",
+  "SERVER_IP": "YOUR_SERVER_IP",
+  "BEDROCK_PORT": "YOUR_SERVER_PORT",
+  "WEBSITE": "YOUR_WEBSITE_LINK",
   "WELCOME_CHANNEL_ID": "PUT_WELCOME_CHANNEL_ID_HERE",   // or set via /set-welcome-channel
   "COMMANDS_CHANNEL_ID": "PUT_COMMANDS_CHANNEL_ID_HERE", // or set via /set-commands-channel
 
-  "ADMIN_ROLE_ID": "1537165736621908100",  // only this role can use any /set-* command
+  "ADMIN_ROLE_ID": "PASTE_THE_ADMIN_ROLE_ID_HERE",  // only this role can use any /set-* command
 
   "channels": {
-    "rules": "1533546447138717866",
-    "noPing": "1533539818561081435",
-    "survival": "1533539862316191814",
-    "updates": "1533539915223273712",
-    "giveaway": "1533540164729895813",
-    "events": "1543894334091558972",
-    "news": "1543894888075108442"
+    "ROLE'S_NAME": "ROLE_ID",
+    "ROLE'S_NAME": "ROLE_ID",
+    "ROLE'S_NAME": "ROLE_ID",
+    "ROLE'S_NAME": "ROLE_ID",
+    "ROLE'S_NAME": "ROLE_ID",
+    "ROLE'S_NAME": "ROLE_ID",
+    "ROLE'S_NAME": "ROLE_ID"
   },
 
   "reactionRoles": {
@@ -123,11 +123,11 @@ Everything you'll want to tweak later lives here, so you never have to touch cod
     "xpChannelId": null,
     "levelChannelId": null,
     "levelRoles": {
-      "5": "1543914420281811047",
-      "10": "1543914583994138634",
-      "25": "1543914701849763890",
-      "50": "1543914896817791036",
-      "75": "1543915065370083348"
+      "5": "ROLE_ID_HERE",
+      "10": "ROLE_ID_HERE",
+      "25": "ROLE_ID_HERE",
+      "50": "ROLE_ID_HERE",
+      "75": "ROLE_ID_HERE"
     }
   }
 }
