@@ -1,0 +1,43 @@
+{
+  "serverName": "Aster MC",
+  "themeColor": "#8a2be2",
+
+  "SERVER_IP": "play.astermc.fun",
+  "BEDROCK_PORT": "25599",
+  "WEBSITE": "https://www.astermc.net/",
+  "WELCOME_CHANNEL_ID": "PUT_WELCOME_CHANNEL_ID_HERE",
+  "COMMANDS_CHANNEL_ID": "PUT_COMMANDS_CHANNEL_ID_HERE",
+
+  "ADMIN_ROLE_ID": "1537165736621908100",
+
+  "channels": {
+    "rules": "1533546447138717866",
+    "noPing": "1533539818561081435",
+    "survival": "1533539862316191814",
+    "updates": "1533539915223273712",
+    "giveaway": "1533540164729895813",
+    "events": "1543894334091558972",
+    "news": "1543894888075108442"
+  },
+
+  "reactionRoles": {
+    "noPing": "PUT_NO_PING_ROLE_ID_HERE",
+    "survival": "PUT_SURVIVAL_ROLE_ID_HERE",
+    "updates": "PUT_UPDATES_ROLE_ID_HERE",
+    "giveaway": "PUT_GIVEAWAY_ROLE_ID_HERE",
+    "events": "PUT_EVENTS_ROLE_ID_HERE",
+    "news": "PUT_NEWS_ROLE_ID_HERE"
+  },
+
+  "leveling": {
+    "xpChannelId": null,
+    "levelChannelId": null,
+    "levelRoles": {
+      "5": "1543914420281811047",
+      "10": "1543914583994138634",
+      "25": "1543914701849763890",
+      "50": "1543914896817791036",
+      "75": "1543915065370083348"
+    }
+  }
+}
