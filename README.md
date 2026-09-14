@@ -3,7 +3,7 @@
 <!-- assets/logo.gif — Aster MC logo, animated -->
 <img src="./assets/logo.gif" alt="Aster MC" width="220" />
 
-# Aster MC Discord Bot
+# N7 Core
 
 Welcome system • Giveaways • Button reaction roles • XP/Leveling • Server-info auto-responder
 
